@@ -4,6 +4,6 @@ Create BY
 https://github.com/itconsultis/
 
 Demo
-https://maintance.adewakun.web.id/
+https://maintance.adewakun.my.id/
 
 I modified it
